@@ -1,0 +1,10 @@
+streamlit
+sqlalchemy
+pandas
+openai
+langchain
+langchain-openai
+langchain-community
+google-generative-ai
+git+https://github.com/business-science/ai-data-science-team.git --upgrade
+requests
